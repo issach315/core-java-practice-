@@ -1,0 +1,47 @@
+ways to improve readability !..
+
+1. follow naming formates
+	-a. class name should follow Pascal casing naming formate.
+	-b.variableNmae,objectName,methodNmae should follow camel casing.
+
+2. Do not print only variable ,rather print variable by conatinating with meaningfull message.
+
+3. proper commenting
+	
+	comments are used for explaining about the program :
+
+	1st type of comment -------> Single line comment
+
+		/* ---------write comment-----------*/
+
+	2nd type of comment -------> Multi  line comment
+
+		/* --------------------------------
+		*----------------------------------
+		*----------------------------------
+		*------ write comment--------------
+		*----------------------------------
+		*----------------------------------
+		*/
+4. Give proper undrastandable ClassName,VaribleName and MethodName:
+	
+	> Give ClassName basedd on the program
+	> Give VaribleName based on the data
+	> Give MethodName based on the Operation
+
+
+5. when ,we are initializing non static variable by using Arguments
+   Argument name must be same as non static varible name .
+
+   Syntax for initializing 
+
+   >>.. this.NSV=Argument;
+
+6. reference variable name must be same as class name
+
+	Ex 1 :	Box box1 = new Box();
+		Box box2 = new Box();
+
+	EX 2 :	Car ca1 = new Car();
+		Car ca2 = new Car();
+	

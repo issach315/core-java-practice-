@@ -1,0 +1,7 @@
+ways to improve readability !..
+
+* follow naming formates
+	-a. class name should follow Pascal casing naming formate.
+	-b.variableNmae,objectName,methodNmae should follow camel casing.
+
+*do not print only variable ,rather print variable by conatinating with meaningfull message.
